@@ -1,0 +1,33 @@
+#root {
+  font-family: sans-serif;
+  font-size: 100%;
+}
+
+.container{
+  margin-left: 1rem;
+}
+
+input{
+  display: block;
+  padding: 8px 10px;
+  border: 1px solid lightslategray;
+  border-radius: 5px;
+  font-size: 100%;
+  margin-bottom: 1.25rem;
+}
+
+button{
+  margin-right: 0.5rem;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: 1px solid lightslategray;
+  font-size: 100%;
+  margin-bottom: 1.25rem;
+  cursor: pointer;
+}
+
+.primary{
+  background: #FF4500;
+  color: white;
+  border: 1px solid red;
+}
